@@ -75,6 +75,8 @@ After a transaction is completed:
 The model will be marked as "Sold".
 The inventory count will be adjusted accordingly.
 
+![Screenshot](images.png)
+
 
 ## References
 - [Connecting to MetaMask with Vanilla JS](https://docs.web3js.org/guides/dapps/metamask-vanilla/)
