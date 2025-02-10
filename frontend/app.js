@@ -8,8 +8,8 @@ let userAddress;
 
 // !!! IMPORTANT !!!
 // Replace the following placeholder addresses with the actual deployed contract addresses.
-const myTokenAddress = "0x6c8aC74Cb8f71f878d9c86759e7561c8A7117699";       
-const marketplaceAddress = "0x425d143E52e149Ea2201ba49E7b7562d6bAc247A"; 
+const myTokenAddress = "0xBb018560C8cfd958B4EB4D2a0016caF1Dc389968";       
+const marketplaceAddress = "0x6aFcDc42533F74E3494AffFB55F4796dE34BFC9C"; 
 
 // ABI for the ERC-20 token contract
 const myTokenABI = [

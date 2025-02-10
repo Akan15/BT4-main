@@ -6,7 +6,7 @@ module.exports = {
     ganache: {
       url: "http://127.0.0.1:7545",
       // Если необходимо, можно указать приватные ключи или адреса аккаунтов:
-      accounts: ["0x744fde8ed1b15b36d1c770e10ed0d5dc14a64d4ce901ded352fbef4791722902"]
+      accounts: ["0xe626fed8b9e0c98d5c5e7dfdee8b568633a6258518034d01438414c2137f3668"]
     }
   }
 };
