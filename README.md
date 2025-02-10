@@ -75,7 +75,7 @@ After a transaction is completed:
 The model will be marked as "Sold".
 The inventory count will be adjusted accordingly.
 
-![Screenshot](images.png)
+![Screenshot](image.png)
 
 
 ## References
